@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "name": "Chapati",
+    "image": "https://static.toiimg.com/photo/msid-71503575/71503575.jpg?1434646",
+    "price": 25
+  },
+  {
+    "id": 2,
+    "name": "Pickle",
+    "image": "https://img-global.cpcdn.com/recipes/fc4183776e6354bf/680x482cq70/pickel-recipe-main-photo.webp",
+    "price": 5
+  },
+  {
+    "id": 3,
+    "name": "Curd",
+    "image": "https://images.healthshots.com/healthshots/en/uploads/2022/02/17155413/curd.jpg",
+    "price": 10
+  },
+  {
+    "id": 4,
+    "name": "Sweet",
+    "image": "https://i0.wp.com/news.jugaadin.com/wp-content/uploads/2020/07/Jalebi-Sweet-Dish.jpg?ssl=1",
+    "price": 50
+  },
+  {
+    "id": 5,
+    "name": "Daal",
+    "image": "https://yourfoodfantasy.com/wp-content/uploads/2018/03/Dal-Tadka-Dal-Fry-Recipe.jpg",
+    "price": 195
+  },
+  {
+    "id": 6,
+    "name": "Paneer Dish",
+    "image": "https://www.archanaskitchen.com/images/archanaskitchen/Indian_Vegetables_Gravy/Paneer_Tikka_Masala_Recipe-1.jpg",
+    "price": 225
+  }
+]
